@@ -1,7 +1,7 @@
 {
   "name": "asbir-app",
   "version": "0.1.0",
-  "homepage": "https://ASBIR-CS-426.github.io/ASBIR-CS-426.github.io",
+  "homepage": "https://asbir-cs-426/asbir-cs-426.github.io/asbir-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
