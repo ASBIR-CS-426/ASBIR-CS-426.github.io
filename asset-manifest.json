@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ASBIR-CS-426.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/ASBIR-CS-426.github.io/static/js/main.b15add56.js",
+    "static/js/787.a4613d53.chunk.js": "/ASBIR-CS-426.github.io/static/js/787.a4613d53.chunk.js",
+    "static/media/logo.svg": "/ASBIR-CS-426.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ASBIR-CS-426.github.io/index.html",
+    "main.073c9b0a.css.map": "/ASBIR-CS-426.github.io/static/css/main.073c9b0a.css.map",
+    "main.b15add56.js.map": "/ASBIR-CS-426.github.io/static/js/main.b15add56.js.map",
+    "787.a4613d53.chunk.js.map": "/ASBIR-CS-426.github.io/static/js/787.a4613d53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b15add56.js"
+  ]
+}
